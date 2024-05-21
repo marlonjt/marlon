@@ -5,10 +5,12 @@ Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP for
 ![GitHub Followers](https://img.shields.io/github/followers/marlonjt?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/marlonjt?style=social)
 
-## Encuéntrame en:
-[![Twitter](https://img.shields.io/badge/Twitter-@marlonjt_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/marlonjt_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlon_Tituaña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlon-tituaña)
-[![Email](https://img.shields.io/badge/marlon.tituana20@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:/marlon.tituana20@gmail.com)
+## Redes:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marlon-tituaña)
+<a href="mailto:marlon.tituana20@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 **🛠 &nbsp;Tech Stack**
 
