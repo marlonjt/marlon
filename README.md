@@ -4,3 +4,7 @@ Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP for
 
 ![GitHub Followers](https://img.shields.io/github/followers/marlonjt?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/marlonjt?style=social)
+
+## Encuéntrame en:
+[![Twitter](https://img.shields.io/badge/Twitter-@marlonjt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/marlonjt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marlon-tituaña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlon-tituaña)
