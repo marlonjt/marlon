@@ -3,14 +3,7 @@ Me gradue de desarollador hace tres años, trabaje en proyectos dentro de formac
 Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP forma bases conjuntas de un modelo de negocio asociado con python.
 
 
-**📞 &nbsp;Contacto**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marlon-tituaña)
-<a href="https://twitter.com/marlonjt_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"></a> 
-<a href="mailto:marlon.tituana20@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
-
-
-**🛠 &nbsp;Tech Stack**
+**🛠 &nbsp; Tecnologías**
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -23,7 +16,12 @@ Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP for
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-### Personal Stuffs:
-![](https://github-readme-stats.vercel.app/api?username=marlonjt&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marlonjt&theme=dark&hide_border=true)<br/>
+###🎯 &nbsp;Estadistica:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonjt&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+**📞 &nbsp;Contacto**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marlon-tituaña)
+<a href="https://twitter.com/marlonjt_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"></a> 
+<a href="mailto:marlon.tituana20@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
