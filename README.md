@@ -3,7 +3,7 @@ Me gradué de desarrollador hace tres años, trabaje en proyectos dentro de mi f
 con varios lenguajes de programación y diseño de interfaz web. Me encanta crear y contribuir con proyectos que marcan la diferencia. En mi tiempo libre, disfruto jugando a videojuegos, explorando nuevas tecnologías y manteniéndome activo realizando actividad física.
 
 
-**🛠 &nbsp; Tecnologías**
+**🛠 &nbsp; Tecnologías**<br/>
 Estas son algunas tecnologias que he uso dentro de proyectos que se encuentran en github.<br/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
