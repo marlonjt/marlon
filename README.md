@@ -19,7 +19,7 @@ Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP for
 **🎯 &nbsp;Estadísticas**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonjt&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Juanqx&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/graph?username=marlonjt&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 **📞 &nbsp;Contacto**
 
