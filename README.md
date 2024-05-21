@@ -19,8 +19,8 @@ Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP for
 **🎯 &nbsp;Estadísticas**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonjt&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://activity-graph.herokuapp.com/graph?username=marlonjt&theme=github)
-
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marlonjt)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marlonjt&theme=github)
 
 **📞 &nbsp;Contacto**
 
