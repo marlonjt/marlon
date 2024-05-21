@@ -1,10 +1,10 @@
 # Hola, mi nombre es Marlon Tituaña 👋
-Me gradue de desarollador hace tres años, trabaje en proyectos dentro de formación educativa adquiriendo conocimientos en las tecnologias de desarrollo.
-Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP forma bases conjuntas de un modelo de negocio asociado con python.
+Me gradué de desarrollador hace tres años, trabaje en proyectos dentro de mi formación educativa adquiriendo conocimientos y expericiencias en el desarrollo de software.
+con varios lenguajes de programación y diseño de interfaz web. Me encanta crear y contribuir con proyectos que marcan la diferencia. En mi tiempo libre, disfruto jugando a videojuegos, explorando nuevas tecnologías y manteniéndome activo realizando actividad física.
 
 
 **🛠 &nbsp; Tecnologías**
-
+Estas son algunas tecnologias que he uso dentro de proyectos que se encuentran en github.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -17,11 +17,11 @@ Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP for
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 **🎯 &nbsp;Estadísticas** <br/>
-Tecnologías usadas en algunos proyectos. <br/><br/>
+Datos de las tecnologías usadas en algunos proyectos.<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonjt&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 **📞 &nbsp;Contacto**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marlon-tituaña)
-<a href="https://twitter.com/marlonjt_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"></a> 
 <a href="mailto:marlon.tituana20@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://twitter.com/marlonjt_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"></a> 
