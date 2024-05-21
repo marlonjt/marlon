@@ -17,7 +17,7 @@ Trabaje con Odoo de comienzo en formación profesional, me gusta como el ERP for
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 **🎯 &nbsp;Estadísticas** <br/>
-Tecnologías usadas en algunos proyectos. <br/>
+Tecnologías usadas en algunos proyectos. <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonjt&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 **📞 &nbsp;Contacto**
